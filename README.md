@@ -1,2 +1,2 @@
-# GraduProj
-This is the graduation project by C#, concerning virtual hand-grasping system.
+# Hand_Grasping
+虚拟手抓取系统
